@@ -129,16 +129,16 @@ Full self-service. Check in and check out with one button. Apply for leave, view
 ## Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/landing.png)
+![Landing Page](https://github.com/AkshayBKrishna/ElevenX---HR-system-Public/blob/main/screenshots/landing.PNG?raw=true)
 
 ### SuperAdmin Dashboard
-![SuperAdmin Dashboard](screenshots/superadmin.png)
+![SuperAdmin Dashboard](https://github.com/AkshayBKrishna/ElevenX---HR-system-Public/blob/main/screenshots/hr.PNG?raw=true)
 
 ### HR Portal
 ![HR Portal](screenshots/hr.png)
 
 ### Manager Portal
-![Manager Portal](screenshots/manager.png)
+![Manager Portal](https://github.com/AkshayBKrishna/ElevenX---HR-system-Public/blob/main/screenshots/manager.PNG?raw=true)
 
 ### Employee Portal
 ![Employee Portal](https://github.com/AkshayBKrishna/ElevenX---HR-system-Public/blob/main/screenshots/employee.PNG?raw=true)
