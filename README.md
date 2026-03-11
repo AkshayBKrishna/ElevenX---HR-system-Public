@@ -141,7 +141,7 @@ Full self-service. Check in and check out with one button. Apply for leave, view
 ![Manager Portal](screenshots/manager.png)
 
 ### Employee Portal
-![Employee Portal](screenshots/employee.png)
+![Employee Portal](https://github.com/AkshayBKrishna/ElevenX---HR-system-Public/blob/main/screenshots/employee.PNG?raw=true)
 
 ---
 
