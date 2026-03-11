@@ -129,7 +129,7 @@ Full self-service. Check in and check out with one button. Apply for leave, view
 ## Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/landing.png)
+![Landing Page](landing.png)
 
 ### SuperAdmin Dashboard
 ![SuperAdmin Dashboard](screenshots/superadmin.png)
